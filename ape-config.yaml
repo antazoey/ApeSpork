@@ -1,0 +1,9 @@
+name: ApeSpork
+
+plugins:
+ - solidity
+ - polygon
+ - ens
+
+ethereum:
+  default_network: mainnet
